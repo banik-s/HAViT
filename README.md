@@ -1,4 +1,4 @@
-# HAViT — Hierarchical Attention Vision Transformer
+# HAViT — Historical Attention Vision Transformer
 
 A research framework for training and evaluating Vision Transformer (ViT) variants with novel attention mechanisms on image classification benchmarks.
 
