@@ -12,7 +12,7 @@ This work proposes a **cross-layer attention propagation** method that preserves
 
 Key results from our paper:
 
-| Dataset | Baseline ViT | HAViT | Δ |
+| Dataset | Baseline ViT | HAViT | improvement|
 |---|---|---|---|
 | CIFAR-100 | 75.74% | 77.07% | **+1.33%** |
 | Tiny ImageNet | 57.82% | 59.07% | **+1.25%** |
@@ -66,7 +66,7 @@ HAViT/
 | `CIFAR100` | CIFAR-100             | 100     | 32×32      |
 | `T-IMNET`  | Tiny ImageNet-200     | 200     | 64×64      |
 
-CIFAR-10, CIFAR-100, and SVHN are downloaded automatically via `torchvision`.  
+CIFAR-10, CIFAR-100 are downloaded automatically via `torchvision`.  
 **Tiny ImageNet must be downloaded and placed manually** (see setup below).
 
 ---
