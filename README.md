@@ -69,19 +69,6 @@ HAViT/
 CIFAR-10, CIFAR-100 are downloaded automatically via `torchvision`.  
 **Tiny ImageNet must be downloaded and placed manually** (see setup below).
 
----
-
-## Supported Models (`--model`)
-
-| Model Name | Description |
-|---|---|
-| `vitlucidrains` | Baseline lucidrains-style ViT |
-| `vitlucidrains_mod_ver1` – `ver13` | HAViT model variants with attention modifications |
-| `vit_original` | Standard ViT-Small |
-| `pit` / `pit_mod_ver1` | Pooling-in-Transformer |
-| `cait` / `cait_mod_ver1` | Class-Attention in Image Transformers |
-
----
 
 ## Requirements
 
